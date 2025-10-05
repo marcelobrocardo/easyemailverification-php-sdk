@@ -110,6 +110,18 @@ For complete API endpoints and technical parameters, see:
 
 ---
 
+## 🧩 Official Distribution
+
+The **Email Checker PHP SDK** is officially distributed on **[SourceForge](https://sourceforge.net/projects/email-checker-php-sdk/)** — one of the most trusted open-source platforms in the world.
+
+[![Download on SourceForge](https://a.fsdn.com/con/app/sf-download-button)](https://sourceforge.net/projects/email-checker-php-sdk/)
+[![SourceForge Downloads](https://img.shields.io/sourceforge/dt/url-checker-php-sdk?label=SourceForge%20Downloads&logo=sourceforge&color=orange)](https://sourceforge.net/projects/url-checker-php-sdk/)
+
+SourceForge provides a secure mirror for releases, public download statistics, and long-term availability for open-source software.  
+You can download the latest stable version or clone the GitHub repository for development.
+
+---
+
 ## 📄 License
 
 MIT License © [Easy Email Verification](https://www.easyemailverification.com)
