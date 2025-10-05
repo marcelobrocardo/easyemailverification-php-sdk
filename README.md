@@ -17,6 +17,25 @@ This SDK makes it simple to integrate the **[Email Checker](https://www.easyemai
 
 ---
 
+## 🧩 Official Distribution
+
+The **Email Checker PHP SDK** is officially distributed on **[SourceForge](https://sourceforge.net/projects/email-checker-php-sdk/)** — one of the most trusted open-source platforms in the world.
+
+[![Download on SourceForge](https://a.fsdn.com/con/app/sf-download-button)](https://sourceforge.net/projects/email-checker-php-sdk/)
+
+SourceForge provides a secure mirror for releases, public download statistics, and long-term availability for open-source software.  
+You can download the latest stable version or clone the GitHub repository for development.
+
+---
+
+### 📦 Available Packages
+| Platform | Link | Description |
+|-----------|------|-------------|
+| **GitHub** | [github.com/marcelobrocardo/easyemailverification-php-sdk](https://github.com/marcelobrocardo/easyemailverification-php-sdk) | Development repository with full source code and examples. |
+| **SourceForge** | [sourceforge.net/projects/email-checker-php-sdk](https://sourceforge.net/projects/email-checker-php-sdk/) | Official distribution channel and stable releases. |
+
+---
+
 ## 🌐 Official Links
 
 | Resource | URL |

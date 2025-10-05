@@ -12,7 +12,7 @@
 require_once __DIR__ . '/../src/EasyEmailVerificationClient.php';
 
 // 🔑 Replace with your actual API key
-$apiKey = "your_api_key_here";
+$apiKey = "Replace with your actual API key";
 
 // 📨 Email to verify
 $emailToCheck = "support@example.com";
@@ -45,7 +45,6 @@ if (isset($result['success']) && $result['success'] === false) {
 
 // Print standard response
 echo "Status: " . ($result['status'] ?? 'unknown') . "\n";
-echo "Score: " . ($result['score'] ?? 'N/A') . "\n";
 echo "Domain: " . ($result['domain'] ?? 'N/A') . "\n";
 echo "Disposable: " . (($result['is_disposable'] ?? false) ? 'Yes' : 'No') . "\n";
 echo "Role-based: " . (($result['is_role_based'] ?? false) ? 'Yes' : 'No') . "\n";
